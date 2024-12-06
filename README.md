@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Coder's
-- 📫 How to reach me LinkedIn<https://www.linkedin.com/in/meghanabv/>
+- 📫 How to reach me LinkedIn <https://www.linkedin.com/in/meghanabv/>
 - 😄 Pronouns: Meghana
 - ⚡ Fun fact: ...
 
